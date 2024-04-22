@@ -1,3 +1,2 @@
 # MyAutomation
-
-Prima lectie de automatizare
+homework4.class - lectia pentru acasa la lectia4 care a fost lectia trecuta
